@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="gobarber" src="./assets/logo.png" width="auto" heigth="auto"/>
+  <img alt="gobarber" src="./assets/capa.png" width="auto" heigth="auto"/>
 </div>
 
 </br>
